@@ -24,7 +24,7 @@ local LocalPlayer = Players.LocalPlayer
 
 -- 🚨 Configuração de Donos e Moderadores
 local DONOS = {
-    ["rtrt967"] = true,
+    ["usbhsnbsosb"] = true,
     ["Lolyta6662"] = true,
   
 }
